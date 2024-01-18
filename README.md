@@ -22,6 +22,8 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
 ## About Me
 Hi, I'm Shahid Afridi Mohammad, a skilled **Full Stack Software Developer** specializing in **Software Development and Data**. I recently graduated with a **Master's degree in Computer Science from University of North Texas**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
+![](https://komarev.com/ghpvc/?username=shahidafridi-m&color=green)
+
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
