@@ -45,11 +45,11 @@ Hi, I'm Shahid Afridi Mohammad, a skilled **Full Stack Software Developer** spec
 
 ## My Skillset Overview 💻
 
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, Python, SQL, C#, R, C, C++, Core Java 
+𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Java, C, python, J2EE, Spring, Springboot, hibernate, microservices, REST, JSON, AWS
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MySQL, Mongo DB, Oracle Database, SQLite  
 
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, XAMPP Apache Web server, Bootstrap, PHP, AngularJS, Apache Tomcat, Selenium Tool, REST APIs, Jasmine Framework, JIRA, Confluence, Postman, Jupyter Notebook, SSMS 
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬:  HTML, JavaScript, CSS, React, XAMPP Apache Web server, Bootstrap, PHP, AngularJS, Apache Tomcat, Selenium Tool, REST APIs, Jasmine Framework, JIRA, Confluence, Postman, Jupyter Notebook, SSMS 
 
 <!
 
