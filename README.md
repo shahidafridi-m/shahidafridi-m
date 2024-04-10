@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity. Feel free to explore and get in touch!
 
 ## About Me
-Hi, I'm Shahid Afridi Mohammad, a skilled **Full Stack Software Developer** specializing in **Software Development and Data**. I recently graduated with a **Master's degree in Computer Science from University of North Texas**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+Hi, I'm Shahid Afridi Mohammad, a skilled **Full Stack Java Developer** specializing in **Software Development and Data**. I recently graduated with a **Master's degree in Computer Science from University of North Texas**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
 ![](https://komarev.com/ghpvc/?username=shahidafridi-m&color=green)
 
@@ -57,4 +57,4 @@ Hi, I'm Shahid Afridi Mohammad, a skilled **Full Stack Software Developer** spec
 
 <a href="https://www.linkedin.com/in/shahid-afridi-m/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
-<a href="mailto:affushahid5497@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:shahidafridi5497@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
